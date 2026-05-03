@@ -1,4 +1,4 @@
-# Rumyp cards
+# revlm cards
 
 Minimal Telegram card bot with admin panel and text RPG commands.
 
