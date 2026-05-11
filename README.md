@@ -22,7 +22,7 @@ You can change bot language in `.env`:
 `LANGUAGE=ru` or `LANGUAGE=en`
 
 RU:
-Ты можешь менять язык бота в `.env`:
+вы можете менять язык бота в `.env`:
 `LANGUAGE=ru` или `LANGUAGE=en`
 
 ## Setup
@@ -42,5 +42,5 @@ Admin panel supports media for cards and RPG commands: photo, GIF, MP4.
 Maximum file size: 10MB per file.
 
 
-Media files are stored locally in the iles/ directory.
+Media files are stored locally in the files/ directory.
 
